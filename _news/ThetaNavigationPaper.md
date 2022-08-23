@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper: Theta oscillations support active exploration in human spatial navigation
+title: New paper! Theta oscillations support active exploration in human spatial navigation
 date: 2022-08-23 09:45:00-0400
 inline: false
 ---
