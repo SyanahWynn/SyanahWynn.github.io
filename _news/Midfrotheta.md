@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another new paper
+title: Another new paper on theta oscillations!
 date: 2022-09-01 11:45:00-0400
 inline: false
 ---
