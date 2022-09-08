@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another new paper
-date: 2022-08-01 11:45:00-0400
+date: 2022-09-01 11:45:00-0400
 inline: false
 ---
 
