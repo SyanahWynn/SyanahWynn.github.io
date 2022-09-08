@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another new paper: Midfrontal theta is associated with errors, but no evidence for a link with error-related memory
+title: Another new paper -> Midfrontal theta is associated with errors, but no evidence for a link with error-related memory
 date: 2022-09-01 11:45:00-0400
 inline: false
 ---
