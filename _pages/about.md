@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Research Fellow at the <a href="https://www.birmingham.ac.uk/research/centre-for-human-brain-health/index.aspx">Centre for Human Brain Health at the University of Birmingham</a>
+description: Postdoctoral Research Fellow at the <a href="http://www.ftn.nic.uni-mainz.de/">Neuroimaging Center (NIC) at Johannes Gutenberg University Medical Center Mainz</a>
 
 profile:
   align: right
@@ -22,6 +22,6 @@ I am a cognitive neuroscientist, which means that I measure and/or manipulate br
 On this website you can find my <a href="https://syanahwynn.github.io/publications/">publications</a> in scientific journals and a <a href="https://syanahwynn.github.io/news/">news</a> section where I keep you informed about ongoing projects and various updates.
 
 <strong>Background</strong><br>
-After a bachelor's in Psychology at Leiden University and a research master's in Cognitive Neuropsychology at VU Amsterdam, I started my PhD in 2015 at the Donders Institute. With Dennis Schutter, Sander Daselaar, Marc Hendriks, and Roy Kessels, I did research on the role of the parietal cortex in memory confidence, using EEG, transcranial magnetic stimulation (TMS) and transcranial alternating current stimulation (tACS) (<a href="https://repository.ubn.ru.nl/bitstream/handle/2066/216190/216190.pdf">Dissertation</a>). During my time at the Donders Institute, I also collaborated on projects that focused on attention, decision making, and movement, using EEG, TMS and transcranial direct current stimulation (tDCS). Thereafter, I worked as a postdoctoral research associate at Bowdoin College with Erika Nyhus. My work there focused on the role of specific oscillations in brain networks underlying memory retrieval, utilizing EEG and tACS. Currently, I work at the University of Birmingham in Ole Jensen's Neural Oscillations group examining how the brain accomplishes rapid object recognition.
+After a bachelor's in Psychology at Leiden University and a research master's in Cognitive Neuropsychology at VU Amsterdam, I started my PhD in 2015 at the Donders Institute. With Dennis Schutter, Sander Daselaar, Marc Hendriks, and Roy Kessels, I did research on the role of the parietal cortex in memory confidence, using EEG, transcranial magnetic stimulation (TMS) and transcranial alternating current stimulation (tACS) (<a href="https://repository.ubn.ru.nl/bitstream/handle/2066/216190/216190.pdf">Dissertation</a>). During my time at the Donders Institute, I also collaborated on projects that focused on attention, decision making, and movement, using EEG, TMS and transcranial direct current stimulation (tDCS). Thereafter, I worked as a postdoctoral research associate at Bowdoin College with Erika Nyhus. My work there focused on the role of specific oscillations in brain networks underlying memory retrieval, utilizing EEG and tACS. Then I moved to Ole Jensen's Neural Oscillations group at the University of Birmingham, examining how the brain accomplishes rapid object recognition. Currently, I work at the Johannes Gutenberg University Medical Center in Mainz, where I work on my DFG-funded research on the role of the parietal cortex in memory-related decision-making.
 
 
