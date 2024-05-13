@@ -56,6 +56,11 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Selected news -->
+    {% if page.selected_news %} 
+      {% include selected_news.html %} 
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
