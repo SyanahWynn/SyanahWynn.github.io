@@ -15,7 +15,7 @@ I got the opportunity to give a talk the Brainbox Initiative Conference and meet
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div><a href="/assets/img/Brainbox2022.jpg">
-            {% include figure.html path="/assets/img/Brainbox2022.jpg" title="Brainbox2022" class="img-fluid rounded z-depth-1" src="/assets/img/Brainbox2022.jpg" %}
+            {% include figure.liquid path="/assets/img/Brainbox2022.jpg" title="Brainbox2022" class="img-fluid rounded z-depth-1" src="/assets/img/Brainbox2022.jpg" %}
         </a></div>
     </div>
 </div>
