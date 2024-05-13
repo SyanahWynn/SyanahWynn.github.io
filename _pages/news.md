@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /news/
+title: news
 description: Updates
 nav: true
 ---
