@@ -10,7 +10,7 @@ Yesterday was the <a href="https://stemlgbtqyou.gay">STEM, LGBTQ & You Conferenc
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div><a href="/assets/img/AGE_Poster.png">
-            {% include figure.html path="/assets/img/STEMGroupPic.jpg" title="STEMGroupPic" class="img-fluid rounded z-depth-1" src="/assets/img/STEMGroupPic.jpg" %}
+            {% include figure.liquid path="/assets/img/STEMGroupPic.jpg" title="STEMGroupPic" class="img-fluid rounded z-depth-1" src="/assets/img/STEMGroupPic.jpg" %}
         </a></div>
     </div>
 </div>
