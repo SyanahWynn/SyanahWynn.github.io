@@ -2,7 +2,7 @@
 layout: page
 permalink: /news/
 title: News
-description: Updates
+description: 
 nav: true
 ---
 
