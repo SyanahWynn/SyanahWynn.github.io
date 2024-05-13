@@ -1,7 +1,9 @@
 ---
 layout: page
-title: news
-permalink: /news/
+permalink: /teaching/
+title: teaching
+description: Updates
+nav: true
 ---
 
 {% include news.liquid %}
