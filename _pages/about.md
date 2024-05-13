@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Postdoctoral Research Fellow at the <a href="http://www.ftn.nic.uni-mainz.de/">Neuroimaging Center (NIC) at Johannes Gutenberg University Medical Center Mainz</a>
+subtitle: Postdoctoral Research Fellow at the <a href="http://www.ftn.nic.uni-mainz.de/">Neuroimaging Center (NIC) at Johannes Gutenberg University Medical Center Mainz</a>
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p></p>
     <p></p>
 
-selected_news: true  # includes a list of news items
+# selected_news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
