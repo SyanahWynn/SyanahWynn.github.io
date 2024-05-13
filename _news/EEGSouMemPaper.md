@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New preprint alert!
-date: 2023-10-19 11:45:00-0400
+title: New memory paper!
+date: 2024-05-07 11:45:00-0400
 inline: false
 ---
 
