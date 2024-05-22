@@ -1,18 +1,20 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Brink":
+  - firstname: ["Ruud", "R.", "R. L.", "Ruud L.", "Ruud L"]
+    url: https://ruudvandenbrink.net/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Nieuwenhuis":
+  - firstname: ["Sander", "S."]
+    url: https://www.temporalattentionlab.com/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Kessels":
+  - firstname: ["Roy", "R.". "R. P. C." "Roy P. C.", "Roy P.C.", "Roy PC"]
+    url: https://www.roykessels.nl/
 
-"Bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Brazil":
+  - firstname: ["Inti", "I.", "I. A.", "Inti A.", "Inti A"]
+    url: https://intibrazil.weebly.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Jensen":
+  - firstname: ["Ole", "O."]
+    url: https://www.neuosc.com/
+
