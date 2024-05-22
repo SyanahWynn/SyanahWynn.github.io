@@ -1,0 +1,20 @@
+---
+layout: post
+title: New paper! Timing of semantic representations of pictures and words
+date: 2024-05-10 09:45:00 00:00
+inline: false
+---
+
+My co-authors Yulia Bezsudnova, Andrew Quinn, and Ole Jensen just published our paper <a href="https://doi.org/10.1162/jocn_a_02182">Spatiotemporal Properties of Common Semantic Categories for Words and Pictures</a> in Journal of Cognitive Neuroscience.
+
+We can activate the concept of a cat both when seeing the word printed on a screen and when seeing a picture of it. 
+At what point during the processing of the information presented to us, in written or pictorial form, are we able to extract the semantic information related to the concept of the item?
+In this paper, participants watched words and pictures, representing the same item while their brain activity was recorded with <i>(magnetoencephalography (MEG))</i>.
+The brain activity while watching the words was used to predict the object category from the brain activity while watching pictures, and vice versa.
+This was done by training a classifier on the brain activity data from one modality and testing the performance of the classifier on the new brain activity data from another modality.
+This showed us that we know what kind of object it is after 150 ms when it is presented in pictorial form and after 230 ms when it is presented in written form.
+
+If you want to learn more about this, click <a href="https://doi.org/10.1162/jocn_a_02182">here</a> for the paper.
+
+
+
