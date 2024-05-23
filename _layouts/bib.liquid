@@ -125,7 +125,7 @@
                 if (++cursorPosition == more_authors_text.length){
                   clearInterval(textAdder);
                 }
-            }, '{{site.more_authors_animation_delay}}');
+            }, parseInt('{{site.more_authors_animation_delay}}', 10));
           "
         >
           {{- more_authors_hide -}}
