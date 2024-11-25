@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Fellow at the <a href="http://www.ftn.nic.uni-ma
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: SW_pic.png
   address: >
     <p></p>
     <p></p>
