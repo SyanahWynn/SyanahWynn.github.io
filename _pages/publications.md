@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/
 title: Publications
 description: "A collection of my publications can be found here."
-description: 
 nav: true
 nav_order: 1
 ---
