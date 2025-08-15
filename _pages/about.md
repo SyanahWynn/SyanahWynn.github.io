@@ -6,7 +6,7 @@ subtitle: Research Scientist at <a href="https://www.boehringer-ingelheim.com/">
 
 profile:
   align: right
-  image: SW_pic.png
+  image: SW_pic.jpg
   address: >
     <p></p>
     <p></p>
