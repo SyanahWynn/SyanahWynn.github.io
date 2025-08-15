@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: Research Scientist at <a href="https://www.boehringer-ingelheim.com/">Boehringer Ingelheim</a>
+description: "I am a cognitive neuroscientist, studying brain activity in people, often while they perform computer-based tasks in a laboratory setting."
+
 
 profile:
   align: right
